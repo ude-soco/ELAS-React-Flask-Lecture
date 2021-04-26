@@ -6,7 +6,7 @@
 
 3. Change the branch in your GitHub desktop to see the code samples of lecture
 
-4.1 For lectures States, Props and Event handlers
+4. For lectures States, Props and Event handlers
 
 Download the latest version of NodeJS
 
@@ -16,7 +16,7 @@ Type the following command
 npm install
 ```
 
-4.2 For lecture Route
+5. For lecture Route
 
 Type the following command
 
