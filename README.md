@@ -2,7 +2,7 @@
 
 1. Clone the repository by clicking the download code green button.
 
-2. Open it in you GitHub Desktop
+2. Open it in your GitHub Desktop
 
 3. Change the branch in your GitHub desktop to see the code samples of lecture
 
