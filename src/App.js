@@ -11,7 +11,7 @@ function App() {
   return (
     <Grid container direction="column" alignItems="center">
 
-      <Typography variant="h3">{name}</Typography>
+      <Typography variant="h3">Counter App</Typography>
       <Typography variant="h1">{count}</Typography>
       
     </Grid>
